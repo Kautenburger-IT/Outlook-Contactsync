@@ -37,3 +37,8 @@ See also:
 
 - The script replaces all contacts in the target folder. If there are already contacts in the target directory before running the script, these should be backed up first
 - The script is created to run as a scheduled task, to synchronize contacts from one Outlook folder to another regularly. If contacts only need to be synchronized once, it is easier to just copy them manually
+
+------------
+![Logo](https://github.com/Kautenburger-IT/Kautenburger-IT/raw/main/Logo_Kautenburger-IT.png)
+##  License 
+https://github.com/Kautenburger-IT/Office-to-Yeastar-Converter/blob/main/LICENSE
