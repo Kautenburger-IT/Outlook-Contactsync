@@ -1,4 +1,4 @@
-# Microsoft Graph Outlook contact sync
+# Microsoft Graph Outlook Contact Sync
 
 This is a Powershell script to synchronize contacts saved in Outlook from one Microsoft Exchange account to another by using a Microsoft Graph application
 
