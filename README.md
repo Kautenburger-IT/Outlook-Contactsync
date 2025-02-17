@@ -31,7 +31,7 @@ See also:
 
 ## Running the Powershell script ##
 
-    .\contactsync.ps1 -ClientID <Client ID> -TenantID <Cenant ID> -certThumbprint <Thumbprint> -sourceUser "source@example.com" -targetUser "target@example.com"
+    .\contactsync.ps1 -ClientID <Client ID> -TenantID <Tenant ID> -certThumbprint <Thumbprint> -sourceUser "source@example.com" -targetUser "target@example.com"
 
 ### Notes
 
